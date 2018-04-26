@@ -42,12 +42,12 @@ Git을 사용하지 않는 분은 이 저장소의 최상위 페이지에서 "Cl
 있습니다. 이 경우 아래와 같은 import문이 앞서 나온다는 것을 전제로 하고 있으므로
 주의가 필요합니다. 이 저장소에 있는 소스 코드에는 이러한 생략이 없습니다.
 
-  import numpy as np  # NumPy를 np라는 별명으로 임포트
-  import scipy as sp  # SciPy를 sp라는 별명으로 임포트
-  import pandas as pd  # pandas를 pd라는 별명으로 임포트
-  import matplotlib as mpl  # Matplotlib를 mpl이라는 별명으로 임포트
-  import matplotlib.pyplot as plt  # Matplotlib.pyplot을 plt라는 별명으로 임포트
-  import numexpr as ne  # Numexpr를 ne라는 별명으로 임포트
+  import numpy as np  # NumPy를 np라는 별명으로 임포트  
+  import scipy as sp  # SciPy를 sp라는 별명으로 임포트  
+  import pandas as pd  # pandas를 pd라는 별명으로 임포트  
+  import matplotlib as mpl  # Matplotlib를 mpl이라는 별명으로 임포트  
+  import matplotlib.pyplot as plt  # Matplotlib.pyplot을 plt라는 별명으로 임포트  
+  import numexpr as ne  # Numexpr를 ne라는 별명으로 임포트  
 
 ## Matplotlib에 대한 설정
 
